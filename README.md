@@ -7,6 +7,8 @@ Microsoft Windows (ou simplesmente Windows) é uma família de sistemas operacio
 
 Apesar do anúncio feito em 1983, seu desenvolvimento demorou mais do que o esperado, criado em 20 de novembro de 1985 por Bill Gates, entretanto o Windows não foi inovador, foi uma cópia de um sistema desenvolvido pela Apple, que, por sua vez, foi uma melhoria do sistema da Xerox. 
 
+![Descrição da Imagem](https://img.odcdn.com.br/wp-content/uploads/2017/03/20170301152954.jpg)
+
 ## Primeiras verções 
 
 ## Windows 1.0 
